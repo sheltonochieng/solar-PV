@@ -33,7 +33,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_84 = function() {
+(lib.CachedBmp_41 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
@@ -47,7 +47,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_83 = function() {
+(lib.CachedBmp_39 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
@@ -61,7 +61,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_82 = function() {
+(lib.CachedBmp_37 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
@@ -75,7 +75,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_81 = function() {
+(lib.CachedBmp_35 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
@@ -89,7 +89,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_80 = function() {
+(lib.CachedBmp_33 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
@@ -103,7 +103,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_79 = function() {
+(lib.CachedBmp_31 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
@@ -159,7 +159,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_78 = function() {
+(lib.CachedBmp_29 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
@@ -187,7 +187,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_69 = function() {
+(lib.CachedBmp_11 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
@@ -215,7 +215,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_66 = function() {
+(lib.CachedBmp_5 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
@@ -229,7 +229,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_77 = function() {
+(lib.CachedBmp_27 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
@@ -243,7 +243,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_76 = function() {
+(lib.CachedBmp_25 = function() {
 	this.initialize(ss["index_atlas_1"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
@@ -561,19 +561,19 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_38();
 	this.instance.setTransform(0,3.6,0.3333,0.3333);
 
-	this.instance_1 = new lib.CachedBmp_82();
+	this.instance_1 = new lib.CachedBmp_37();
 	this.instance_1.setTransform(-1.6,-2.45,0.3333,0.3333);
 
 	this.instance_2 = new lib.CachedBmp_40();
 	this.instance_2.setTransform(0,3.6,0.3333,0.3333);
 
-	this.instance_3 = new lib.CachedBmp_83();
+	this.instance_3 = new lib.CachedBmp_39();
 	this.instance_3.setTransform(-1.6,-2.45,0.3333,0.3333);
 
 	this.instance_4 = new lib.CachedBmp_42();
 	this.instance_4.setTransform(0,3.6,0.3333,0.3333);
 
-	this.instance_5 = new lib.CachedBmp_84();
+	this.instance_5 = new lib.CachedBmp_41();
 	this.instance_5.setTransform(-1.6,-2.45,0.3333,0.3333);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_3},{t:this.instance_2}]},1).to({state:[{t:this.instance_5},{t:this.instance_4}]},1).wait(1));
@@ -620,19 +620,19 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_32();
 	this.instance.setTransform(0.75,11.75,0.3333,0.3333);
 
-	this.instance_1 = new lib.CachedBmp_79();
+	this.instance_1 = new lib.CachedBmp_31();
 	this.instance_1.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_2 = new lib.CachedBmp_34();
 	this.instance_2.setTransform(0.75,11.75,0.3333,0.3333);
 
-	this.instance_3 = new lib.CachedBmp_80();
+	this.instance_3 = new lib.CachedBmp_33();
 	this.instance_3.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_4 = new lib.CachedBmp_36();
 	this.instance_4.setTransform(0.75,11.75,0.3333,0.3333);
 
-	this.instance_5 = new lib.CachedBmp_81();
+	this.instance_5 = new lib.CachedBmp_35();
 	this.instance_5.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_3},{t:this.instance_2}]},1).to({state:[{t:this.instance_5},{t:this.instance_4}]},1).wait(1));
@@ -793,19 +793,19 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_26();
 	this.instance.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_1 = new lib.CachedBmp_76();
+	this.instance_1 = new lib.CachedBmp_25();
 	this.instance_1.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_2 = new lib.CachedBmp_28();
 	this.instance_2.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_3 = new lib.CachedBmp_77();
+	this.instance_3 = new lib.CachedBmp_27();
 	this.instance_3.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_4 = new lib.CachedBmp_30();
 	this.instance_4.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_5 = new lib.CachedBmp_78();
+	this.instance_5 = new lib.CachedBmp_29();
 	this.instance_5.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_3},{t:this.instance_2}]},1).to({state:[{t:this.instance_5},{t:this.instance_4}]},1).wait(1));
@@ -831,19 +831,19 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_20();
 	this.instance.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_1 = new lib.CachedBmp_76();
+	this.instance_1 = new lib.CachedBmp_25();
 	this.instance_1.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_2 = new lib.CachedBmp_22();
 	this.instance_2.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_3 = new lib.CachedBmp_77();
+	this.instance_3 = new lib.CachedBmp_27();
 	this.instance_3.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_4 = new lib.CachedBmp_24();
 	this.instance_4.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_5 = new lib.CachedBmp_78();
+	this.instance_5 = new lib.CachedBmp_29();
 	this.instance_5.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_3},{t:this.instance_2}]},1).to({state:[{t:this.instance_5},{t:this.instance_4}]},1).wait(1));
@@ -869,19 +869,19 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_14();
 	this.instance.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_1 = new lib.CachedBmp_76();
+	this.instance_1 = new lib.CachedBmp_25();
 	this.instance_1.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_2 = new lib.CachedBmp_16();
 	this.instance_2.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_3 = new lib.CachedBmp_77();
+	this.instance_3 = new lib.CachedBmp_27();
 	this.instance_3.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_4 = new lib.CachedBmp_18();
 	this.instance_4.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_5 = new lib.CachedBmp_78();
+	this.instance_5 = new lib.CachedBmp_29();
 	this.instance_5.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_3},{t:this.instance_2}]},1).to({state:[{t:this.instance_5},{t:this.instance_4}]},1).wait(1));
@@ -907,19 +907,19 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_8();
 	this.instance.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_1 = new lib.CachedBmp_76();
+	this.instance_1 = new lib.CachedBmp_25();
 	this.instance_1.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_2 = new lib.CachedBmp_10();
 	this.instance_2.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_3 = new lib.CachedBmp_77();
+	this.instance_3 = new lib.CachedBmp_27();
 	this.instance_3.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_4 = new lib.CachedBmp_12();
 	this.instance_4.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_5 = new lib.CachedBmp_69();
+	this.instance_5 = new lib.CachedBmp_11();
 	this.instance_5.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_3},{t:this.instance_2}]},1).to({state:[{t:this.instance_5},{t:this.instance_4}]},1).wait(1));
@@ -945,19 +945,19 @@ if (reversed == null) { reversed = false; }
 	this.instance = new lib.CachedBmp_2();
 	this.instance.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_1 = new lib.CachedBmp_76();
+	this.instance_1 = new lib.CachedBmp_25();
 	this.instance_1.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_2 = new lib.CachedBmp_4();
 	this.instance_2.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_3 = new lib.CachedBmp_77();
+	this.instance_3 = new lib.CachedBmp_27();
 	this.instance_3.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.instance_4 = new lib.CachedBmp_6();
 	this.instance_4.setTransform(11.25,0,0.3333,0.3333);
 
-	this.instance_5 = new lib.CachedBmp_66();
+	this.instance_5 = new lib.CachedBmp_5();
 	this.instance_5.setTransform(-2.45,-2.45,0.3333,0.3333);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_3},{t:this.instance_2}]},1).to({state:[{t:this.instance_5},{t:this.instance_4}]},1).wait(1));
@@ -1541,7 +1541,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_1.png?1604405941407", id:"index_atlas_1"}
+		{src:"images/index_atlas_1.png?1604406402458", id:"index_atlas_1"}
 	],
 	preloads: []
 };
